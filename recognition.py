@@ -3,6 +3,7 @@ import cv2
 import pickle
 
 
+# displays corners
 def display_corners(img, c1, c2, c3, c4):
     for i in range(c1, c2):
         for j in range(c3, c4):
