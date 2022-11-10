@@ -7,4 +7,4 @@ Preferably, collect multiple samples for each color at different times of the da
 
 ## Run the mlmodel.py file to train the Random Forest Classifier model on the data. Note: This might take 1 - 2 minutes. 
 
-## Finally, run the recognition.py file and the model should accurately predict the colors of each face. 
+## Finally, run the recognition.py file and the model should accurately predict the colors of each face!
